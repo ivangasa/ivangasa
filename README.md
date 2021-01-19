@@ -1,6 +1,6 @@
 ### Hey there!! &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm Iván, a Backend PHP Developer 🚀 from Barcelona. Currently working [@Farmapremium](https://farmapremium.es). 
+Hi, I'm Iván, a Backend PHP Developer 🚀 from Barcelona. Currently working [@Drinks&Co](https://drinksandco.com). 
 <br/>
 
 #### Some things I'm comfortable working with
