@@ -11,8 +11,8 @@
 <br/>
 
 <p align="center">
-  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.vercel.app/api?username=vaanngs&show_icons=true&theme=tokyonight" />
-  <img align="center" alt="Akshat's github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=vaanngs&theme=tokyonight" />
+  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.vercel.app/api?username=ivangasa&show_icons=true&theme=tokyonight" />
+  <img align="center" alt="Akshat's github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ivangasa&theme=tokyonight" />
 </p>
 
 <br/>
